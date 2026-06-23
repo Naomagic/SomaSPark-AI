@@ -1,1 +1,1 @@
-# SomaSPark-AI
+# SomaSpark-AI
